@@ -1,0 +1,42 @@
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.exe
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.deps.json
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.runtimeconfig.json
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.runtimeconfig.dev.json
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.dll
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.pdb
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.csproj.AssemblyReference.cache
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.AssemblyInfoInputs.cache
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.AssemblyInfo.cs
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.csproj.CoreCompileInputs.cache
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.dll
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.pdb
+C:\Users\Umanah.U\Desktop\personal projects\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.genruntimeconfig.cache
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.exe
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.deps.json
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.runtimeconfig.json
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.runtimeconfig.dev.json
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.dll
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.pdb
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.csproj.AssemblyReference.cache
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.AssemblyInfoInputs.cache
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.AssemblyInfo.cs
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.csproj.CoreCompileInputs.cache
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.dll
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.pdb
+C:\Users\Ayilara.R\Desktop\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.genruntimeconfig.cache
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.exe
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.deps.json
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.runtimeconfig.json
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.runtimeconfig.dev.json
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.dll
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\bin\Debug\netcoreapp3.1\NewTodoist.pdb
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.csproj.AssemblyReference.cache
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.AssemblyInfoInputs.cache
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.AssemblyInfo.cs
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.csproj.CoreCompileInputs.cache
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.dll
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.pdb
+C:\Users\Umanah.U\Downloads\uduak\NewTodoist\NewTodoist\obj\Debug\netcoreapp3.1\NewTodoist.genruntimeconfig.cache
